@@ -1,0 +1,19 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "node.js assignment5 using express and some static datas",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asif",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20",
+    "razorpay": "^2.8.4"
+  }
+}
